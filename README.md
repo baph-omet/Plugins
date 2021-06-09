@@ -11,4 +11,7 @@ The following is a directory for all the Bukkit/Spigot/Paper plugins I've create
 
 \* This project is inactive
 
+## Support
+You can support my plugin development as well as everything else I do by supporting me on [Patreon](https://patreon.com/iamvishnu_media) or leaving a tip on [PayPal](https://paypal.me/iamvishnumedia).
+
 ← Back to [IAMVISHNU Media](https://iamvishnu.net).
