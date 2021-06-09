@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Bukkit Plugins
+The following is a directory for all the Bukkit/Spigot/Paper plugins I've created. See the respective plugin pages for downloads, issues, wiki, and more information.
 
-You can use the [editor on GitHub](https://github.com/iamvishnu-media/Plugins/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+| Plugin     | Description | Issues Link | Latest Release | CurseForge Link | Spigot Resource Link |
+| ----------- | ----------- | --- | --- | --- | --- |
+| [CityZen](https://github.com/iamvishnu-media/CityZen) | City and plot management | [Issues](https://github.com/iamvishnu-media/CityZen/issues) | [Latest](https://github.com/iamvishnu-media/CityZen/releases/latest) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/cityzen) | [Spigot](https://www.spigotmc.org/resources/cityzen.19447/) |
+| [EconRepair](https://github.com/iamvishnu-media/EconRepair) | Fine-tuned costs for item repair | [Issues](https://github.com/iamvishnu-media/EconRepair/issues) | [Latest](https://github.com/iamvishnu-media/EconRepair/releases/latest) | -- | [Spigot](https://www.spigotmc.org/resources/econrepair.92658/) |
+| [BirthdayBoy](https://github.com/iamvishnu-media/BirthdayBoy) | Age verification and birthday rewards | [Issues](https://github.com/iamvishnu-media/BirthdayBoy/issues) | [Latest](https://github.com/iamvishnu-media/BirthdayBoy/releases/latest) | -- | [Spigot](https://www.spigotmc.org/resources/birthdayboy.92119/) |
+| [TopicOfTheDay](https://github.com/iamvishnu-media/TopicOfTheDay)\* | Displays daily topics to spark discussion. | [Issues](https://github.com/iamvishnu-media/TopicOfTheDay/issues) | [Latest](https://github.com/iamvishnu-media/TopicOfTheDay/releases/latest) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/topicoftheday) | -- |
+| MagicConch\* | Magic 8Ball style random answer generator | -- | -- | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/magic-conch) | -- |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+\* This project is inactive
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamvishnu-media/Plugins/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Back to [IAMVISHNU Media](https://iamvishnu.net).
