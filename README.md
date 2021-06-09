@@ -11,4 +11,4 @@ The following is a directory for all the Bukkit/Spigot/Paper plugins I've create
 
 \* This project is inactive
 
-Back to [IAMVISHNU Media](https://iamvishnu.net).
+← Back to [IAMVISHNU Media](https://iamvishnu.net).
